@@ -1,0 +1,14 @@
+{
+    "name": "Daquiri",
+    "description": "The traditional three-ingredient Cuban drink.",
+    "ingredients": [
+        { "amount": 2, "unit": "oz", "ingredient": "light rum" },
+        { "amount": 1, "unit": "oz", "ingredient": "lime juice" },
+        { "amount": 0.75, "unit": "oz", "ingredient": "demerara syrup" }
+    ],
+    "steps": [
+        "Shake rum, lime juice, and demerara syrup in cocktail shaker with ice until well chilled.",
+        "Strain into a chilled coupe glass."
+    ],
+    "footnote": "As a bonus, garnish with a lime twist."
+}
