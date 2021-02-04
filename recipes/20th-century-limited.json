@@ -1,0 +1,15 @@
+{
+    "name": "20th Century Limited",
+    "description": "Originally served on the train that ran between NYC and Chicago in the first half of the 20th century, incidentally named the 20th Century Limited.",
+    "ingredients": [
+        { "amount": 1.5, "unit": "oz", "ingredient": "gin" },
+        { "amount": 0.75, "unit": "oz", "ingredient": "Lillet Blanc" },
+        { "amount": 0.5, "unit": "oz", "ingredient": "creme de cacao" },
+        { "amount": 0.75, "unit": "oz", "ingredient": "lemon juice" }
+    ],
+    "steps": [
+        "Shake Lillet Blanc, creme de cacao, lemon juice, and gin in cocktail shaker with ice until well chilled.",
+        "Strain into a chilled coupe glass."
+    ],
+    "footnote": "As a bonus, garnish with a lemon twist."
+}
