@@ -37,7 +37,8 @@ const recipes: any = [];
             return ingredient;
         })
         const rendered = Mustache.render(templates.cocktail, recipe, partials);
-        fs.writeFileSync(path.join(DOCS_DIR, `${recipe.filename}.html`), rendered);
+        fs.mkdirSync(path.join(DOCS_DIR, recipe.filename));
+        fs.writeFileSync(path.join(DOCS_DIR, recipe.filename, "index.html"), rendered);
         recipes.push(recipe);
     });
 
