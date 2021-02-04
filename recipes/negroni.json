@@ -1,0 +1,14 @@
+{
+    "name": "Negroni",
+    "description": "Composed of gin, sweet vermouth, and Campari, the Negroni is the classic three-ingredient cocktail.",
+    "ingredients": [
+        { "amount": 2, "unit": "oz", "ingredient": "gin" },
+        { "amount": 1, "unit": "oz", "ingredient": "sweet vermouth" },
+        { "amount": 0.75, "unit": "oz", "ingredient": "Campari" }
+    ],
+    "steps": [
+        "Shake gin, sweet vermouth, and Campari in cocktail shaker with ice until well chilled.",
+        "Strain into a rocks glass over a large rock."
+    ],
+    "footnote": "As a bonus, drop in a Maraschino cherry on a cocktail stick."
+}

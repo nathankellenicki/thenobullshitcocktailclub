@@ -1,0 +1,15 @@
+{
+    "name": "Old Fashioned",
+    "description": "The Old Fashioned. The quintessential Bourbon drink and one of the oldest cocktails in the world.",
+    "ingredients": [
+        { "amount": 2, "unit": "oz", "ingredient": "bourbon or rye" },
+        { "amount": 1, "unit": "tsp", "ingredient": "simple syrup" },
+        { "amount": 2, "unit": "dashes", "ingredient": "Angustura bitters" }
+    ],
+    "steps": [
+        "Add demerara syrup, Angostura bitters, and bourbon to a rocks glass.",
+        "Add ice. A large rock works best. Stir until well chilled.",
+        "Spritz an orange peel into the glass and drop the peel in."
+    ],
+    "footnote": "As a bonus, drop in a Maraschino cherry on a cocktail stick."
+}

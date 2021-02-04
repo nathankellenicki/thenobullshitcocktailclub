@@ -1,0 +1,13 @@
+{{> header}}
+
+Too many online cocktail websites have paragraphs of bullshit, requiring you to scroll endlessly to get to the actual recipe. This website is the antithesis of that.
+
+<hr />
+
+<h2>Cocktails</h2>
+
+{{#recipes}}
+<a href="./{{filename}}.html">{{name}}</a><br />
+{{/recipes}}
+
+{{> footer}}

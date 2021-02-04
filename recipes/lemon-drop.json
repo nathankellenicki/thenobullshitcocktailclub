@@ -1,0 +1,16 @@
+{
+    "name": "Lemon Drop",
+    "description": "Created in San Francisco in the '70s, the Lemon Drop is a deliciously boozy yet tart concoction which is easy to make.",
+    "ingredients": [
+        { "amount": 2, "unit": "oz", "ingredient": "vodka" },
+        { "amount": 0.5, "unit": "oz", "ingredient": "triple sec" },
+        { "amount": 1, "unit": "oz", "ingredient": "lemon juice" },
+        { "amount": 1, "unit": "oz", "ingredient": "simple syrup" }
+    ],
+    "steps": [
+        "Coat the rim of a martini glass with sugar and let dry.",
+        "Shake vodka, triple sec, lemon juice, and simple syrup in cocktail shaker with ice until well chilled.",
+        "Strain into the martini glass."
+    ],
+    "footnote": "As a bonus, garnish with a slice of lemon on the rim."
+}

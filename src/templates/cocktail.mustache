@@ -1,0 +1,27 @@
+{{> header}}
+
+{{description}}
+
+<hr />
+
+<h2>Ingredients</h2>
+
+<ul>
+{{#ingredients}}
+    <li>{{amount}}{{unit}} {{ingredient}}</li>
+{{/ingredients}}
+</ul>
+
+<hr />
+
+<h2>Recipe</h2>
+
+<ol>
+{{#steps}}
+    <li>{{.}}</li>
+{{/steps}}
+</ol>
+
+{{footnote}}
+
+{{> footer}}
