@@ -24,6 +24,7 @@ const recipes: any = [];
     // Delete existing files
     fs.rmdirSync(DOCS_DIR, { recursive: true });
     fs.mkdirSync(DOCS_DIR);
+    fs.writeFileSync(path.join(DOCS_DIR, "CNAME"), "the.nobullshitcocktail.club");
 
     // Write recipes
     const files = await fsPromises.readdir(RECIPE_DIR);
