@@ -1,0 +1,15 @@
+{
+    "name": "Margarita",
+    "description": "Needs no introduction.",
+    "ingredients": [
+        { "amount": 2.0, "unit": "oz", "ingredient": "tequilla" },
+        { "amount": 1, "unit": "oz", "ingredient": "lime juice" },
+        { "amount": 1, "unit": "oz", "ingredient": "Contreau" },
+        { "amount": 0.25, "unit": "oz", "ingredient": "simple syrup" }
+    ],
+    "steps": [
+        "Shake tequila, lime juice, simple syrup, and Cointreau in cocktail shaker with ice until well chilled.",
+        "Rim a coupe glass with salt.",
+        "Strain into glass."
+    ]
+}

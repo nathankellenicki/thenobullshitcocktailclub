@@ -1,0 +1,14 @@
+{
+    "name": "Vesper Martini",
+    "description": "Despite what 007 says, under no circumstances should this be shaken and not stirred.",
+    "ingredients": [
+        { "amount": 3.0, "unit": "oz", "ingredient": "gin" },
+        { "amount": 1, "unit": "oz", "ingredient": "vodka" },
+        { "amount": 0.5, "unit": "oz", "ingredient": "Lillet Blanc" }
+    ],
+    "steps": [
+        "Add ingredients to a mixing glass with ice and stir until well chilled.",
+        "Strain into a coupe or martini glass.",
+        "Spritz lemon twist into glass, rub along rim, and drop into cocktail."
+    ]
+}

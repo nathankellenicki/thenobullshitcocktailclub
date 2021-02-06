@@ -1,0 +1,15 @@
+{
+    "name": "Penicillin",
+    "description": "The perfect hangover cure.",
+    "ingredients": [
+        { "amount": 2.0, "unit": "oz", "ingredient": "blended scotch" },
+        { "amount": 0.75, "unit": "oz", "ingredient": "lemon juice" },
+        { "amount": 0.5, "unit": "oz", "ingredient": "honey/ginger syrup" },
+        { "amount": 0.25, "unit": "oz", "ingredient": "Island Single Malt scotch" }
+    ],
+    "steps": [
+        "Shake blended scotch, lemon juice, and syrup in a cocktail shaker with ice until well chilled.",
+        "Strain drink into rocks glass over ice.",
+        "Top with Islay scotch (pour over the back of a spoon)."
+    ]
+}
