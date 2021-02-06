@@ -4,7 +4,7 @@
     "ingredients": [
         { "amount": 2.0, "unit": "oz", "ingredient": "tequilla" },
         { "amount": 1, "unit": "oz", "ingredient": "lime juice" },
-        { "amount": 1, "unit": "oz", "ingredient": "Contreau" },
+        { "amount": 1, "unit": "oz", "ingredient": "Cointreau" },
         { "amount": 0.25, "unit": "oz", "ingredient": "simple syrup" }
     ],
     "steps": [

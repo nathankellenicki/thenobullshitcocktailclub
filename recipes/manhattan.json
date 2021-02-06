@@ -1,0 +1,14 @@
+{
+    "name": "Manhattan",
+    "description": "For when you want to feel like you're taking in a drink in the Big Apple.",
+    "ingredients": [
+        { "amount": 2.0, "unit": "oz", "ingredient": "bourbon or rye" },
+        { "amount": 1, "unit": "oz", "ingredient": "sweet vermouth" },
+        { "amount": 2, "unit": "dashes", "ingredient": "Angostura bitters" }
+    ],
+    "steps": [
+        "Add ingredients to a mixing glass with ice and stir until well chilled.",
+        "Pour into a chilled coupe glass."
+    ],
+    "footnote": "Top with a Maraschino cherry."
+}
