@@ -5,7 +5,7 @@
         { "amount": 2.0, "unit": "oz", "ingredient": "blended scotch" },
         { "amount": 0.75, "unit": "oz", "ingredient": "lemon juice" },
         { "amount": 0.5, "unit": "oz", "ingredient": "honey/ginger syrup" },
-        { "amount": 0.25, "unit": "oz", "ingredient": "Island Single Malt scotch" }
+        { "amount": 0.25, "unit": "oz", "ingredient": "Islay Single Malt scotch" }
     ],
     "steps": [
         "Shake blended scotch, lemon juice, and syrup in a cocktail shaker with ice until well chilled.",
