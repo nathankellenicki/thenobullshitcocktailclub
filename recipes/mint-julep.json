@@ -1,0 +1,15 @@
+{
+    "name": "Mint Julep",
+    "description": "A refreshing summery whisky based drink, best consumed on a hot day - or any day really.",
+    "ingredients": [
+        { "amount": 8, "unit": "", "ingredient": "mint leaves" },
+        { "amount": 2, "unit": "oz", "ingredient": "bourbon" },
+        { "amount": 1, "unit": "tsp", "ingredient": "simple syrup" }
+    ],
+    "steps": [
+        "Muddle mint leaves with simple syrup in the bottle of a rocks or julep glass.",
+        "Add bourbon and full with crushed ice.",
+        "Stir thoroughly until glass is chilled."
+    ],
+    "footnote": "As a bonus, garnish with sprig of mint and a couple of dashes of Angustura bitters."
+}
