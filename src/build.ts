@@ -22,7 +22,7 @@ const recipes: any = [];
 (async () => {
 
     // Delete existing files
-    fs.rmdirSync(DOCS_DIR, { recursive: true });
+    fs.rmSync(DOCS_DIR, { recursive: true });
     fs.mkdirSync(DOCS_DIR);
     fs.writeFileSync(path.join(DOCS_DIR, "CNAME"), "the.nobullshitcocktail.club");
 
@@ -35,7 +35,7 @@ const recipes: any = [];
             ingredient.unit = ["oz", "ml", "tsp", "tbsp", ""].indexOf(ingredient.unit) >= 0 ? ingredient.unit : ` ${ingredient.unit}`;
             ingredient.amount = ingredient.amount < 1 ? ingredient.amount.toString().substr(1) : ingredient.amount;
             return ingredient;
-        })
+        });
         const rendered = Mustache.render(templates.cocktail, recipe, partials);
         fs.mkdirSync(path.join(DOCS_DIR, recipe.filename));
         fs.writeFileSync(path.join(DOCS_DIR, recipe.filename, "index.html"), rendered);
