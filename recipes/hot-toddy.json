@@ -1,0 +1,19 @@
+{
+    "name": "Hot Toddy",
+    "description": "Depending on whom you ask, it's either a warming winter drink, or the perfect cure for the common cold.",
+    "ingredients": [
+        { "amount": 2, "unit": "oz", "ingredient": "Scotch whisky" },
+        { "amount": 0.5, "unit": "oz", "ingredient": "lemon juice" },
+        { "amount": 0.5, "unit": "oz", "ingredient": "maple syrup" },
+        { "amount": 4, "unit": "oz", "ingredient": "boiling hot water" },
+        { "amount": 1, "ingredient": "English tea bag" },
+        { "amount": 1, "ingredient": "cinnamon stick" },
+        { "amount": 4, "ingredient": "cloves" }
+    ],
+    "steps": [
+        "Place the tea bag and a cinnamon stick in the bottom of a rocks glass.",
+        "Add lemon juice, maple syrup, whisky, and hot water, in that order.",
+        "Add cloves. Remove after a 2 minutes. (Alternatively, place cloves into a lemon wheel in the glass.)"
+    ],
+    "footnote": "If you don't have maple syrup, honey will do fine."
+}

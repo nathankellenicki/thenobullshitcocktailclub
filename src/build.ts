@@ -32,7 +32,7 @@ const recipes: any = [];
         const recipe = JSON.parse(fs.readFileSync(path.join(RECIPE_DIR, file)).toString());
         recipe.filename = path.basename(file, ".json");
         recipe.ingredients = recipe.ingredients.map((ingredient: any) => {
-            ingredient.unit = ["oz", "ml", "tsp", "tbsp", ""].indexOf(ingredient.unit) >= 0 ? ingredient.unit : ` ${ingredient.unit}`;
+            ingredient.unit = ["oz", "ml", "tsp", "tbsp", "", undefined].indexOf(ingredient.unit) >= 0 ? ingredient.unit : ` ${ingredient.unit}`;
             ingredient.amount = ingredient.amount < 1 ? ingredient.amount.toString().substr(1) : ingredient.amount;
             return ingredient;
         });
