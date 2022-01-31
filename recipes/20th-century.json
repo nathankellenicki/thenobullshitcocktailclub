@@ -4,7 +4,7 @@
     "ingredients": [
         { "amount": 1.5, "unit": "oz", "ingredient": "gin" },
         { "amount": 0.75, "unit": "oz", "ingredient": "Lillet Blanc" },
-        { "amount": 0.5, "unit": "oz", "ingredient": "creme de cacao" },
+        { "amount": 0.75, "unit": "oz", "ingredient": "creme de cacao" },
         { "amount": 0.75, "unit": "oz", "ingredient": "lemon juice" }
     ],
     "steps": [
