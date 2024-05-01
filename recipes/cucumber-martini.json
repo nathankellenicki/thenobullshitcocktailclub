@@ -1,0 +1,17 @@
+{
+    "name": "Cucumber Martini",
+    "description": "A fresh, summery twist on a martini.",
+    "ingredients": [
+        { "amount": 1, "ingredient": "cucumber" },
+        { "amount": 0.5, "unit": "oz", "ingredient": "simple syrup" },
+        { "ingredient": "Pinch of salt" },
+        { "amount": 0.75, "unit": "oz", "ingredient": "lemon juice" },
+        { "amount": 3, "unit": "oz", "ingredient": "gin" }
+    ],
+    "steps": [
+        "Cut a handful of cucumber cubes and muddle in a cocktail shaker with simple syrup and a pinch of salt.",
+        "Add lemon juice and gin, shake in a cocktail shaker with ice.",
+        "Serve in a coupe glass."
+    ],
+    "footnote": "Garnish with a slice of cucumber o the rim."
+}

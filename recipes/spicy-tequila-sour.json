@@ -1,0 +1,19 @@
+{
+    "name": "Spicy Tequila Sour",
+    "description": "A sour and spicy take on the Margarita.",
+    "ingredients": [
+        { "amount": 1, "ingredient": "fresh jalapeño" },
+        { "amount": 0.5, "unit": "oz", "ingredient": "simple syrup" },
+        { "amount": 1, "unit": "oz", "ingredient": "lime juice" },
+        { "amount": 1, "unit": "oz", "ingredient": "pineapple juice" },
+        { "amount": 2, "unit": "oz", "ingredient": "tequila" }
+    ],
+    "steps": [
+        "Cut three small slices of jalapeno and muddle in the bottom of a cocktail shaker with simple syrup.",
+        "Add lime juice, pineapple juice, tequila, and egg white.",
+        "Dry shake for 20 seconds.",
+        "Add ice and shake for a further 20 seconds.",
+        "Serve in a coupe glass."
+    ],
+    "footnote": "Garnish with a slice of jalapeno."
+}
